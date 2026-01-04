@@ -11,5 +11,5 @@ while (a!=n):
     elif(a>n):
         print("Guess a lower number ")
         
-print(F"you guess the number {n} in {Guess} attempt")        
+print(f"you guess the number {n} in {Guess} attempt")        
         
